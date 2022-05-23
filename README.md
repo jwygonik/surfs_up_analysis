@@ -18,5 +18,10 @@ The purpose of this analysis was to help our investor client examine the aggrega
 
 When taking the aggregate temperatures for one of the Summer months (June) and one of the Winter months (December), the data seems to support that this climate would be the ideal place to open a business centered around Surfing and Shakes. The warm weather would encourage outdoor sports year round and maintain the cash flow from selling ice cream and other warm-weather favorites. Overall the weather for this area appears to be consistent throughout the year. When this area does hit it's lower temperatures, it will not be cause for concern as the average maintains higher throughout the majority of the year. Even on the coldest days for that area, there would still be a market for at least one of the two specialties. 
 
-	* [June Stats](Resources/June_temp_stats.png)
-	* [December Stats] (Resources/Dec_temp_stats.png)
+	* [June Stats](June_temp_stats.png)
+	* [December Stats] (Dec_temp_stats.png)
+
+
+
+
+
